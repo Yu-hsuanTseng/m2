@@ -2,13 +2,14 @@ $(document).ready(function () {
 
   // INITIALIZE FIREBASE
   firebase.initializeApp({
-    apiKey: "AIzaSyBWkL1ZDkWwGW8IaEVFEhniEJFfM284wwE",
-    authDomain: "f2e2018-10e3d.firebaseapp.com",
-    databaseURL: "https://f2e2018-10e3d.firebaseio.com",
-    projectId: "f2e2018-10e3d",
-    storageBucket: "f2e2018-10e3d.appspot.com",
-    messagingSenderId: "315995849194",
-    appId: "1:315995849194:web:5103d9e1d0bc2da0"
+    apiKey: "AIzaSyDxqDJlUXeW-AwfFgsRUAjIMWudhLyPLiQ",
+    authDomain: "cheers-c52f7.firebaseapp.com",
+    databaseURL: "https://cheers-c52f7.firebaseio.com",
+    projectId: "cheers-c52f7",
+    storageBucket: "cheers-c52f7.appspot.com",
+    messagingSenderId: "466609031632",
+    appId: "1:466609031632:web:99f1be21e319deabcf51d5",
+    measurementId: "G-P8T46372LC"
   });
 
   // REFERENCE CHATROOM DOCUMENT
